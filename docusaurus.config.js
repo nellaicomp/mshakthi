@@ -17,6 +17,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -55,6 +56,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      metadata: [
+        {name: 'keywords', content: 'Money Shakthi, DPIIT'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       // Replace with your project's social card
       image: 'img/mshakthi-social-card.jpg',
       navbar: {
@@ -72,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://nellaicomputers.com/assets/files/startup-55b15afa94f13cffb875763face70f33.pdf',
             label: 'DPIIT',
             position: 'right',
           },
@@ -152,7 +158,7 @@ const config = {
             {
               tagName: 'meta',
               name: 'theme-color',
-              content: 'rgb(37, 194, 160)',
+              content: 'rgb(255, 103, 31)',
             },
           ],
         },
