@@ -6,27 +6,15 @@ const config = {
   tagline: 'Give Shakthi to your Money',
   favicon: 'img/favicon.ico',
   url: 'https://moneyshakthi.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'moneyshakthi', // Usually your GitHub org/user name.
   projectName: 'mshakthi', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
+    i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       '@docusaurus/preset-classic',
