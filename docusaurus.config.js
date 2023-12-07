@@ -165,6 +165,21 @@ const config = {
           ],
         },
       ],
+      [
+        '@docusaurus/plugin-google-gtag',
+        {
+          trackingID: 'G-999X9XX9XX',
+          anonymizeIP: true,
+        },
+      ],
+      [
+        '@docusaurus/plugin-sitemap',
+        {
+          changefreq: 'weekly',
+          priority: 1,
+          filename: 'sitemap.xml',
+        },
+      ],
     ],
   
 };
