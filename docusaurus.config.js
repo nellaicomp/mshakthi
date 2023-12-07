@@ -180,6 +180,9 @@ const config = {
           filename: 'sitemap.xml',
         },
       ],
+      [ require.resolve('docusaurus-lunr-search'), {
+        languages: ['en'] // language codes
+      }],
     ],
   
 };
