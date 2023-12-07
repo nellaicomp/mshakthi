@@ -164,14 +164,6 @@ const config = {
           anonymizeIP: true,
         },
       ],
-      [
-        '@docusaurus/plugin-sitemap',
-        {
-          changefreq: 'weekly',
-          priority: 1,
-          filename: 'sitemap.xml',
-        },
-      ],
       [ require.resolve('docusaurus-lunr-search'), {
         languages: ['en'] // language codes
       }],
