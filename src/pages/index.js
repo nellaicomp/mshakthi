@@ -35,7 +35,7 @@ export default function Home() {
       description="DPIIT Approved Start Up<head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );

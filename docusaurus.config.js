@@ -58,13 +58,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://nellaicomputers.com/assets/files/startup-55b15afa94f13cffb875763face70f33.pdf',
             label: 'DPIIT',
@@ -76,11 +76,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pension',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'PFRDA',
+                to: 'https://www.pfrda.org.in/',
               },
             ],
           },
@@ -88,16 +88,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/moneyshakthi',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/moneyshakthi',
               },
             ],
           },
@@ -105,12 +101,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'NPS',
+                to: 'https://www.npstrust.org.in/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'AMFI',
+                href: 'https://www.amfiindia.com/investor-corner/knowledge-center/what-are-mutual-funds-new.html',
               },
             ],
           },
