@@ -1,8 +1,8 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
-authors: endi
-tags: [hello, docusaurus]
+slug: info-on-nps
+title: Information On NPS
+authors: helloasir
+tags: [savings, nps , moneyshakthi]
 ---
 
 This is the summary of a very long blog post,
