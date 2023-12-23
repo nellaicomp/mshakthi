@@ -58,18 +58,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
-          to: 'docs/about',
-          activeBasePath: 'docs',
-          label: 'About',
-          position: 'left',
-        },
+             type: 'docSidebar',
+             sidebarId: 'tutorialSidebar',
+             position: 'left',
+             label: 'Tutorial',
+           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://nellaicomputers.com/assets/files/startup-55b15afa94f13cffb875763face70f33.pdf',
@@ -100,10 +94,6 @@ const config = {
               {
                 label: 'Facebook',
                 href: 'https://facebook.com/moneyshakthi',
-              },
-              {
-                label: 'Github',
-                href: 'https://github.com/moneyshakthi',
               },
             ],
           },
