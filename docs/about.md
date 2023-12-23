@@ -13,9 +13,23 @@ GST : **33AAJCN1095J1ZB**
 
 DPIIT Certification No :  **DIPP146540**
 
-**View Our ** **[Certificate](../static/startup.pdf)** .
+**View Our** **[Certificate](../static/startup.pdf)** .
 
 Startuptn Profile : **https://startuptn.in/user/23925/**
+
+**Contact Us**
+
+NELLAI COMPUTERS PRIVATE LIMITED,\
+A52 , 19 th Street , NGO B Colony,\
+Perumalpuram , Palayamkottai,\
+Tirunelveli DT , TamilNadu ,\
+India . 
+
+Email : info@nellaicomputers.com\
+Phone : 94424 72515
+
+Map : [Click here](https://maps.app.goo.gl/orecVZmmNXVkHuRG7)
+
 <!-- 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
