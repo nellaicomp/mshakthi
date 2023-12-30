@@ -34,4 +34,5 @@ Mutual funds offer an excellent avenue for retail investors to participate and b
 
 While investors of all categories can invest in securities market on their own, a mutual fund is a better choice for the only reason that all benefits come in a package.
 
+
 [Read more](https://www.amfiindia.com/investor-corner/knowledge-center/what-are-mutual-funds-new.html)
